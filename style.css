@@ -26,15 +26,14 @@ text-align: center;
 }
 
 #featured-property p {
-margin: auto;
+margin: 0 auto;
 width: 800px;
 }
 
-#details {
-  display: block
-}
-
-div {
+#details div {
+  display: block;
+  float: left;
   background-color:rgb(0, 100, 25);
   text-align: center;
+  width: 25%;
 }
